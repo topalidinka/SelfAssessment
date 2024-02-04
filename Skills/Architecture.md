@@ -2,24 +2,24 @@
 
 - Application structure
   - Modularity
-  - Components: *
+  - Components: 🖐️ used
   - Directories
-  - GRASP: ~
-  - SOLID: *
-  - GoF patterns: ~
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming: ~
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic: ~
-  - Code coverage: ~
-  - Cohesion: ~
-  - Coupling: ~
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
   - Cyclomatic complexity
-  - Reliability: ~
-  - Quality: ~
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -32,20 +32,20 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI): *
-  - Clean architecture: ~
-  - Domain-driven design (DDD): ~
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS: ~
+  - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML: *
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -55,7 +55,7 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS: ~
+  - SaaS: 👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -64,11 +64,11 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design: ~
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment: ~
+  - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
