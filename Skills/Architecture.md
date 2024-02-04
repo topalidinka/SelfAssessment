@@ -2,24 +2,24 @@
 
 - Application structure
   - Modularity
-  - Components
+  - Components: *
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: ~
+  - SOLID: *
+  - GoF patterns: ~
   - CQS
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
+  - Contract programming: ~
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Framework-agnostic: ~
+  - Code coverage: ~
+  - Cohesion: ~
+  - Coupling: ~
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability: ~
+  - Quality: ~
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -32,20 +32,20 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Dependency injection (DI): *
+  - Clean architecture: ~
+  - Domain-driven design (DDD): ~
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
+  - CQRS: ~
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: *
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -55,7 +55,7 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: ~
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -64,11 +64,11 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: ~
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment
+  - Risk assessment: ~
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
