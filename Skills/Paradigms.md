@@ -5,9 +5,9 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: *
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: *
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,65 +27,65 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor: *
+  - Operator `new`: *
+  - Static method: *
+  - Method: *
+  - Async method: *
+  - Getters, Setters: *
+  - Public fields: *
+  - Private fields: *
+  - Field declarations: *
+  - Inheritance: *
+  - Parent class: *
+  - Polymorphism: *
+  - Abstract class: *
+  - Interface: *
+  - Encapsulation: *
   - Hidden class
   - Object form
-  - Instance
+  - Instance: *
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: ~
+  - Creator: ~
+  - Controller: ~
+  - Indirection: ~
+  - Low coupling: ~
+  - High cohesion: ~
+  - Protected variations: ~
+  - Pure fabrication: ~
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): ~
+  - Open–closed principle (OCP): ~
+  - Liskov substitution principle (LSP): ~
+  - Interface segregation principle (ISP): ~
+  - Dependency inversion principle (DIP): ~
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton: ~
+  - Factory Method: ~
+  - Abstract Factory: ~
+  - Adapter: ~
+  - Observer: ~
+  - Strategy: ~
+  - Facade: ~
+  - Proxy: ~
+  - Chain of Responsibility: ~
+  - Command: ~
+  - Iterator: ~
+  - State: ~
+  - Bridge: ~
+  - Builder: ~
+  - Prototype: ~
+  - Composite: ~
+  - Decorator: ~
+  - Flyweight: ~
+  - Mediator: ~
+  - Memento: ~
+  - Template Method: ~
+  - Visitor: ~
+  - Reactor: ~
+  - Active object: ~
+  - Delegation: ~
